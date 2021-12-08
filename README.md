@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @miromax42
-- 👀 I’m interested in money
+- 👀 I’m interested in selfdeveloping
 - 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate on MTS
 - 📫 How to reach me tlg:@doejon
